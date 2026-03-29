@@ -1,0 +1,2594 @@
+[
+  {
+    "questions": "Hewan yang sering digunakan petani untuk membajak sawah?",
+    "answers": "Pasrah",
+    "clues": "Bukan tentang kekuatan tapi perasaan",
+    "reason": "Karena kerbaunya pasrah saja ditarik-tarik sama petani."
+  },
+  {
+    "questions": "Seseorang yang memimpin sebuah desa, biasanya dipanggil pak?",
+    "answers": "Noleh",
+    "clues": "Ini adalah sebuah gerakan",
+    "reason": "Karena kalau ada yang manggil 'pak', pasti orangnya noleh."
+  },
+  {
+    "questions": "Buah yang paling ditakuti oleh mahasiswa tingkat akhir?",
+    "answers": "Belimbing",
+    "clues": "Bukan karena rasanya yang asam",
+    "reason": "Apalagi kalau sudah masuk ke tahap bimbingan skripsi."
+  },
+  {
+    "questions": "Makanan yang bisa membuat orang jadi emosi?",
+    "answers": "Telat",
+    "clues": "Bukan jenis makanannya, tapi waktunya",
+    "reason": "Karena kalau pesanan makanannya datang telat, pasti bikin marah."
+  },
+  {
+    "questions": "Saat kita pergi ke pasar, biasanya kita melihat ibu-ibu sedang melakukan apa?",
+    "answers": "Napas",
+    "clues": "Sebuah aktivitas vital bagi makhluk hidup",
+    "reason": "Ya masa ibu-ibunya belanja sambil menahan napas."
+  },
+  {
+    "questions": "Kenapa air laut itu rasanya bisa asin?",
+    "answers": "Capek",
+    "clues": "Berhubungan dengan aktivitas para nelayan",
+    "reason": "Soalnya ikannya pada keringetan dikejar-kejar sama nelayan."
+  },
+  {
+    "questions": "Siapakah penyanyi luar negeri yang hobinya bersepeda?",
+    "answers": "Selena",
+    "clues": "Ada hubungannya dengan bagian dari sepeda",
+    "reason": "Namanya kan Selena Gowes."
+  },
+  {
+    "questions": "Benda apa yang kalau ditutup malah berubah jadi sebuah tongkat?",
+    "answers": "Payung",
+    "clues": "Sangat berguna ketika musim hujan tiba",
+    "reason": "Coba saja kalau payungnya ditutup, kan bentuknya jadi seperti tongkat."
+  },
+  {
+    "questions": "Siapakah gubernur di Indonesia yang paling jago melawak?",
+    "answers": "Kamil",
+    "clues": "Perhatikan nama belakangnya",
+    "reason": "Ridwan Kamil, karena beliau sering sekali membuat pantun yang lucu."
+  },
+  {
+    "questions": "Kalau mau menyeberang jalan raya, kita harus lihat kemana dulu?",
+    "answers": "Dulu",
+    "clues": "Ini tentang urutan waktu",
+    "reason": "Harus lihat dulu ke kanan dan ke kiri, baru boleh menyeberang."
+  },
+  {
+    "questions": "Orang yang rambutnya botak di bagian depan, biasanya itu pertanda apa?",
+    "answers": "Mikir",
+    "clues": "Bukan karena faktor keturunan atau penyakit",
+    "reason": "Itu tandanya orang tersebut terlalu banyak berpikir."
+  },
+  {
+    "questions": "Hewan apa yang paling sering datang terlambat ke sekolah?",
+    "answers": "Kaki",
+    "clues": "Ini adalah bagian dari tubuh hewan tersebut",
+    "reason": "Kaki seribu, soalnya kakinya ada seribu, jadi kelamaan pakai sepatunya."
+  },
+  {
+    "questions": "Kenapa zombi kalau menyerang manusia selalu bersama-sama?",
+    "answers": "Takut",
+    "clues": "Ini adalah sebuah perasaan yang manusiawi",
+    "reason": "Karena kalau menyerangnya sendirian, namanya jadi zomblo."
+  },
+  {
+    "questions": "Pintu apa yang walaupun didorong oleh sepuluh orang tetap tidak akan pernah terbuka?",
+    "answers": "Geser",
+    "clues": "Perhatikan cara membukanya",
+    "reason": "Karena itu adalah pintu geser, cara membukanya ya digeser bukan didorong."
+  },
+  {
+    "questions": "Di bolongan apa yang biasanya sering ada lalatnya?",
+    "answers": "Tahi",
+    "clues": "Biasanya berwarna hitam dan menempel di kulit",
+    "reason": "Tahi lalat."
+  },
+  {
+    "questions": "Apa yang biasanya dilakukan oleh polisi di tengah jalan raya?",
+    "answers": "Tidur",
+    "clues": "Ini bukan bagian dari tugas utamanya",
+    "reason": "Yang dimaksud adalah polisi tidur."
+  },
+  {
+    "questions": "Buah apa yang dianggap paling durhaka?",
+    "answers": "Melon",
+    "clues": "Ada hubungannya dengan sebuah cerita legenda terkenal",
+    "reason": "Buah Melon Kundang."
+  },
+  {
+    "questions": "Sayur apa yang suhunya paling dingin?",
+    "answers": "Kangkung",
+    "clues": "Bukan karena baru dikeluarkan dari dalam kulkas",
+    "reason": "Kangkung 'cool', kan dingin."
+  },
+  {
+    "questions": "Siapakah penyanyi yang paling sering kehilangan kesadaran?",
+    "answers": "Pingsan",
+    "clues": "Ini adalah sebuah kondisi tubuh",
+    "reason": "Penyanyinya adalah Pingsan Mambo."
+  },
+  {
+    "questions": "Negara mana yang paling sering disebut ketika seseorang sedang melakukan presentasi?",
+    "answers": "Oke",
+    "clues": "Ini adalah sebuah kata persetujuan",
+    "reason": "Oke, mari kita lanjut ke slide berikutnya..."
+  },
+  {
+    "questions": "Jenis ikan apa yang ternyata bisa terbang?",
+    "answers": "Lele",
+    "clues": "Ini bukan jenis ikan terbang yang sesungguhnya",
+    "reason": "Ikan Lele-lawar."
+  },
+  {
+    "questions": "Kenapa anak kucing dan anak anjing itu suka sekali berkelahi?",
+    "answers": "Wajar",
+    "clues": "Ini adalah sebuah sifat yang alami",
+    "reason": "Namanya juga masih anak-anak, jadi wajar kalau suka berkelahi."
+  },
+  {
+    "questions": "Apa perbedaan antara buah apel dengan upil?",
+    "answers": "Letak",
+    "clues": "Ini berhubungan dengan posisi atau tempat",
+    "reason": "Kalau buah apel biasanya diletakkan di atas meja, sedangkan upil biasanya di bawah meja."
+  },
+  {
+    "questions": "Jenis telur apa yang penampilannya paling sangar?",
+    "answers": "Asin",
+    "clues": "Telur ini memiliki sebuah tato atau cap",
+    "reason": "Telur asin, karena ada cap stempelnya."
+  },
+  {
+    "questions": "Sambal, sambal apa yang biasanya ada di pinggir jalan?",
+    "answers": "Ban",
+    "clues": "Ini bukanlah sambal yang bisa dimakan",
+    "reason": "Sambal ban."
+  },
+  {
+    "questions": "Kecoa apa yang bisa masuk ke dalam rumah sakit?",
+    "answers": "Sakit",
+    "clues": "Ini adalah sebuah kondisi kesehatan",
+    "reason": "Tentu saja kecoa yang sedang sakit."
+  },
+  {
+    "questions": "Kenapa hewan babi itu badannya bau?",
+    "answers": "Keringat",
+    "clues": "Ini berhubungan dengan bau badan",
+    "reason": "Karena babinya tidak pernah menggunakan deodoran."
+  },
+  {
+    "questions": "Ban, ban apa yang rasanya paling berat?",
+    "answers": "Tu",
+    "clues": "Tujuannya adalah untuk membantu orang lain",
+    "reason": "Ban-tu orang tua."
+  },
+  {
+    "questions": "Nasi apa yang tidak akan pernah menjadi basi?",
+    "answers": "Hattrick",
+    "clues": "Ini adalah sebuah istilah dalam olahraga sepak bola",
+    "reason": "Nasi yang dicetak oleh Cristiano Ronaldo."
+  },
+  {
+    "questions": "Kota di Indonesia mana yang para wanitanya paling tidak sabaran?",
+    "answers": "Ciamis",
+    "clues": "Nama sebuah kota yang ada di Provinsi Jawa Barat",
+    "reason": "Ciamis you so much, jadi gak sabar mau ketemu."
+  },
+  {
+    "questions": "Kenapa di keyboard komputer itu ada tombol yang tulisannya 'ENTER'?",
+    "answers": "Capek",
+    "clues": "Ini berhubungan dengan sebuah perasaan",
+    "reason": "Soalnya kalau tulisannya 'ENTAR', nanti pekerjaannya tidak akan selesai-selesai."
+  },
+  {
+    "questions": "Ada seorang nenek-nenek yang jatuh ke dalam kali, lalu munculnya di mana?",
+    "answers": "Korban",
+    "clues": "Ini berhubungan dengan statusnya",
+    "reason": "Munculnya di koran sebagai korban."
+  },
+  {
+    "questions": "Hewan apa yang namanya hanya terdiri dari dua huruf saja?",
+    "answers": "Ug",
+    "clues": "Ini bukanlah nama hewan yang sebenarnya",
+    "reason": "Hewan U dan G (udang)."
+  },
+  {
+    "questions": "Lampu apa yang kalau dipecahkan bisa keluar orang?",
+    "answers": "Rumah",
+    "clues": "Ini adalah bagian dari sebuah bangunan rumah",
+    "reason": "Lampu bohlam yang ada di rumah, kalau pecah ya orang rumahnya keluar."
+  },
+  {
+    "questions": "Pocong, pocong apa yang paling disukai oleh para ibu-ibu?",
+    "answers": "Diskon",
+    "clues": "Berhubungan dengan aktivitas belanja",
+    "reason": "Pocongan harga."
+  },
+  {
+    "questions": "Apa yang menyebabkan jumlah bintang di langit bisa berkurang?",
+    "answers": "Siang",
+    "clues": "Ini berhubungan dengan waktu",
+    "reason": "Karena kesiangan, jadi bintangnya pada hilang."
+  },
+  {
+    "questions": "Kenapa kostum yang dipakai Superman itu ada huruf 'S' nya?",
+    "answers": "Kecil",
+    "clues": "Ini berhubungan dengan ukuran pakaian",
+    "reason": "Soalnya kalau pakai ukuran 'M' atau 'L' nanti kebesaran."
+  },
+  {
+    "questions": "Jus, jus apa yang rasanya paling menyakitkan?",
+    "answers": "Hati",
+    "clues": "Ini berhubungan dengan sebuah perasaan",
+    "reason": "Jus a friend, tidak bisa lebih dari itu."
+  },
+  {
+    "questions": "Daun, daun apa yang tidak bisa dipegang dengan tangan?",
+    "answers": "Touch",
+    "clues": "Ini adalah sebuah kata dalam Bahasa Inggris",
+    "reason": "Daun touch me (don't touch me)."
+  },
+  {
+    "questions": "Gajah, gajah apa yang belalainya paling pendek?",
+    "answers": "Pesek",
+    "clues": "Ini berhubungan dengan bentuk hidung",
+    "reason": "Gajah yang hidungnya pesek."
+  },
+  {
+    "questions": "Sate, sate apa yang bisa terbang sampai ke luar angkasa?",
+    "answers": "Lit",
+    "clues": "Ini adalah sebuah benda yang ada di langit",
+    "reason": "Sate-lit."
+  },
+  {
+    "questions": "Susu, susu apa yang warnanya bening?",
+    "answers": "Kemasan",
+    "clues": "Ini bukan tentang warna dari susunya",
+    "reason": "Susu dalam kemasan, kan kemasannya yang bening."
+  },
+  {
+    "questions": "Kue, kue apa yang bagian tengahnya itu tidak memiliki rasa?",
+    "answers": "Donat",
+    "clues": "Perhatikan bentuknya yang bolong",
+    "reason": "Kan bagian tengahnya bolong, jadi tidak ada rasanya."
+  },
+  {
+    "questions": "Siapakah penyanyi yang paling sering mengajak orang untuk bermain?",
+    "answers": "Maudy",
+    "clues": "Nama dari seorang penyanyi wanita terkenal",
+    "reason": "Maudy Ayunda, 'Ayunda' (Ayo nda, ayo main)."
+  },
+  {
+    "questions": "Game, game apa yang paling seram dan menakutkan?",
+    "answers": "Pa",
+    "clues": "Ini berhubungan dengan hubungan dalam keluarga",
+    "reason": "Game-pa bumi."
+  },
+  {
+    "questions": "Monyet, monyet apa yang suka berdiri diam di pinggir jalan?",
+    "answers": "Rial",
+    "clues": "Ini adalah nama sebuah mata uang",
+    "reason": "Monyet-top di pinggir jalan menunggu angkot."
+  },
+  {
+    "questions": "Tahu, tahu apa yang ukurannya paling besar?",
+    "answers": "Bulat",
+    "clues": "Ini bukan tentang ukurannya, tapi bentuknya",
+    "reason": "Tahu bulat, yang digoreng dadakan di mobil."
+  },
+  {
+    "questions": "Apa bahasa Jepangnya dari kalimat 'saya baru saja dicopet'?",
+    "answers": "Sakuku",
+    "clues": "Ini berhubungan dengan barang yang hilang",
+    "reason": "Sakuku diraba takada."
+  },
+  {
+    "questions": "Panda, panda apa yang rasanya paling manis?",
+    "answers": "Ngan",
+    "clues": "Ini berhubungan dengan sebuah perasaan cinta",
+    "reason": "Pandangan pertama awal aku berjumpa."
+  },
+  {
+    "questions": "Kenapa nyamuk itu kalau terbang bunyinya 'nging'?",
+    "answers": "Darah",
+    "clues": "Ini berhubungan dengan makanan kesukaannya",
+    "reason": "Karena nyamuk itu minumnya darah, coba kalau minumnya bensin pasti bunyinya 'brem'."
+  },
+  {
+    "questions": "Kera apa yang warnanya bisa macam-macam?",
+    "answers": "Yonan",
+    "clues": "Benda untuk menggambar",
+    "reason": "Kera-yonan."
+  },
+  {
+    "questions": "Kenapa pohon kelapa di depan rumah harus ditebang?",
+    "answers": "Cabut",
+    "clues": "Tindakan yang harus dilakukan",
+    "reason": "Soalnya kalau dicabut berat."
+  },
+  {
+    "questions": "Orang apa yang kalau berenang rambutnya tidak pernah basah?",
+    "answers": "Botak",
+    "clues": "Kondisi rambut",
+    "reason": "Orang botak, kan tidak punya rambut."
+  },
+  {
+    "questions": "Apa bedanya antara sarung dengan kotak?",
+    "answers": "Bentuk",
+    "clues": "Geometri",
+    "reason": "Kalau sarung itu bisa kotak-kotak, tapi kalau kotak tidak bisa sarung-sarung."
+  },
+  {
+    "questions": "Minyak, minyak apa yang bisa bikin orang jadi mabuk?",
+    "answers": "Saksikan",
+    "clues": "Kalimat ajakan",
+    "reason": "Minyaksikan pertandingan tinju."
+  },
+  {
+    "questions": "Hewan apa yang paling kaya raya?",
+    "answers": "Beruang",
+    "clues": "Memiliki banyak harta",
+    "reason": "Ber-uang."
+  },
+  {
+    "questions": "Siapa atlet tinju yang paling sering mengucap 'syukurlah'?",
+    "answers": "Alhamdulillah",
+    "clues": "Ucapan syukur",
+    "reason": "Mike Tyson, 'Alhamdulillah, I'm Tyson'."
+  },
+  {
+    "questions": "Gajah terbang dengan apa?",
+    "answers": "Susah",
+    "clues": "Tingkat kesulitan",
+    "reason": "Dengan susah payah."
+  },
+  {
+    "questions": "Kenapa bantal disebut bantal?",
+    "answers": "Nahan",
+    "clues": "Fungsinya",
+    "reason": "Karena bantal fungsinya untuk nahan iler."
+  },
+  {
+    "questions": "Mobil apa yang bikin deg-degan?",
+    "answers": "Mogok",
+    "clues": "Kondisi mobil",
+    "reason": "Mobil mogok di tengah perlintasan kereta."
+  },
+  {
+    "questions": "Ikan apa yang matanya paling banyak?",
+    "answers": "Teri",
+    "clues": "Jumlah",
+    "reason": "Ikan teri sekilo."
+  },
+  {
+    "questions": "Hewan apa yang paling sering ditemukan di dekat keran air?",
+    "answers": "Kodok",
+    "clues": "Suaranya",
+    "reason": "Kodok 'keran'."
+  },
+  {
+    "questions": "Kenapa air mata warnanya bening?",
+    "answers": "Hijau",
+    "clues": "Warna lain",
+    "reason": "Kalau warnanya hijau, namanya jadi air matcha."
+  },
+  {
+    "questions": "Sabun apa yang paling genit?",
+    "answers": "Colek",
+    "clues": "Tindakan",
+    "reason": "Sabun colek."
+  },
+  {
+    "questions": "Gubernur Jawa Barat yang hobi makan?",
+    "answers": "Kamil",
+    "clues": "Nama belakangnya",
+    "reason": "Ridwan Kamil, karena suka 'ngemil'."
+  },
+  {
+    "questions": "Apa bahasa Arabnya dari 'diam di tempat'?",
+    "answers": "Takabur",
+    "clues": "Sifat",
+    "reason": "Takaburrrr (tidak bergerak)."
+  },
+  {
+    "questions": "Apa yang paling ditakuti oleh para tukang cukur?",
+    "answers": "Hujan",
+    "clues": "Cuaca",
+    "reason": "Hujan keramas."
+  },
+  {
+    "questions": "Rambut putih namanya uban, rambut merah namanya pirang, kalau rambut hijau namanya apa?",
+    "answers": "Belum",
+    "clues": "Kematangan",
+    "reason": "Rambutan belum matang."
+  },
+  {
+    "questions": "Binatang apa yang paling sering diinjak-injak orang?",
+    "answers": "Zebra",
+    "clues": "Ada di jalan raya",
+    "reason": "Zebra cross."
+  },
+  {
+    "questions": "Di lautan apa yang tidak ada airnya?",
+    "answers": "Peta",
+    "clues": "Gambar",
+    "reason": "Di lautan yang ada di peta."
+  },
+  {
+    "questions": "Tukang apa yang kalau dipanggil, dia malah nengok ke atas?",
+    "answers": "Gali",
+    "clues": "Pekerjaannya",
+    "reason": "Tukang gali sumur."
+  },
+  {
+    "questions": "Apa bedanya motor dengan roket?",
+    "answers": "Kecepatan",
+    "clues": "Laju",
+    "reason": "Kalau motor bisa 'ngebut', kalau roket bisa 'melejit'."
+  },
+  {
+    "questions": "Kalau gajah jadi ayam, lalu singa jadi ayam, dan kambing jadi ayam, maka ayam jadi apa?",
+    "answers": "Banyak",
+    "clues": "Jumlah",
+    "reason": "Ayamnya jadi banyak."
+  },
+  {
+    "questions": "Hewan apa yang paling penurut?",
+    "answers": "Kucing",
+    "clues": "Sering dipelihara",
+    "reason": "Kucing 'nurut'."
+  },
+  {
+    "questions": "Kenapa kapal selam ada jendelanya?",
+    "answers": "Lihat",
+    "clues": "Fungsi mata",
+    "reason": "Buat lihat keadaan di luar."
+  },
+  {
+    "questions": "Benda apa yang kalau dipotong malah jadi semakin tinggi?",
+    "answers": "Celana",
+    "clues": "Pakaian",
+    "reason": "Celana panjang kalau dipotong jadi celana pendek."
+  },
+  {
+    "questions": "Olahraga apa yang paling berat?",
+    "answers": "Catur",
+    "clues": "Peralatannya",
+    "reason": "Soalnya harus angkat kuda dan benteng."
+  },
+  {
+    "questions": "Kenapa di rel kereta api ditaruh batu?",
+    "answers": "Ngemil",
+    "clues": "Kebiasaan",
+    "reason": "Kalau ditaruh cokelat, nanti keretanya ngemil."
+  },
+  {
+    "questions": "Apa yang ada di ujung langit?",
+    "answers": "T",
+    "clues": "Huruf",
+    "reason": "Huruf 'T'."
+  },
+  {
+    "questions": "Kenapa harimau selalu makan daging mentah?",
+    "answers": "Masak",
+    "clues": "Kemampuan",
+    "reason": "Soalnya harimau tidak bisa masak."
+  },
+  {
+    "questions": "Ibu dari paku itu siapa?",
+    "answers": "Paluna",
+    "clues": "Nama orang",
+    "reason": "Palu."
+  },
+  {
+    "questions": "Kopi apa yang paling pahit?",
+    "answers": "Lupain",
+    "clues": "Melupakan seseorang",
+    "reason": "Kopi-lih dia daripada aku."
+  },
+  {
+    "questions": "Kenapa dokter bedah kalau mau operasi mulutnya ditutup?",
+    "answers": "Ngobrol",
+    "clues": "Komunikasi",
+    "reason": "Kalau matanya yang ditutup, nanti tidak bisa lihat."
+  },
+  {
+    "questions": "Buah apa yang paling sering dipakai untuk perang?",
+    "answers": "Jambu",
+    "clues": "Senjata",
+    "reason": "Jambu runcing."
+  },
+  {
+    "questions": "Orang apa yang bisa masuk ke dalam botol?",
+    "answers": "Bohlam",
+    "clues": "Benda elektronik",
+    "reason": "Orang-orangan yang ada di dalam bohlam."
+  },
+  {
+    "questions": "Kenapa gorila lubang hidungnya besar?",
+    "answers": "Jari",
+    "clues": "Ukuran",
+    "reason": "Soalnya ukuran jarinya juga besar, pas buat ngupil."
+  },
+  {
+    "questions": "Apa yang menyebabkan Jakarta sering banjir?",
+    "answers": "Air",
+    "clues": "Zat cair",
+    "reason": "Karena ada air, coba kalau tidak ada air pasti tidak banjir."
+  },
+  {
+    "questions": "Hewan apa yang kalau diinjak tidak pernah marah?",
+    "answers": "Kaca",
+    "clues": "Benda",
+    "reason": "Kera-mik."
+  },
+  {
+    "questions": "Kenapa kerang hidupnya di laut?",
+    "answers": "Darat",
+    "clues": "Tempat tinggal lain",
+    "reason": "Kalau hidupnya di darat, namanya jadi kering."
+  },
+  {
+    "questions": "Bulu apa yang warnanya kuning?",
+    "answers": "Ketiak",
+    "clues": "Bagian tubuh",
+    "reason": "Bulu ketiak yang jarang dibersihkan."
+  },
+  {
+    "questions": "Siapakah artis yang paling sering ditunggu saat bulan puasa?",
+    "answers": "Maghrib",
+    "clues": "Waktu",
+    "reason": "Adzan Maghrib."
+  },
+  {
+    "questions": "Kenapa dinosaurus bisa punah?",
+    "answers": "Telat",
+    "clues": "Waktu",
+    "reason": "Karena telat naik ke kapalnya Nabi Nuh."
+  },
+  {
+    "questions": "Bebek apa yang jalannya selalu muter ke kiri?",
+    "answers": "Habis",
+    "clues": "Jumlah",
+    "reason": "Bebek yang dikunci stang."
+  },
+  {
+    "questions": "Api kalau dinyalakan jadi apa?",
+    "answers": "Nyala",
+    "clues": "Kondisi",
+    "reason": "Jadi nyala, masa jadi mati."
+  },
+  {
+    "questions": "Kenapa anak babi jalannya selalu nunduk?",
+    "answers": "Malu",
+    "clues": "Perasaan",
+    "reason": "Karena malu ibunya seekor babi."
+  },
+  {
+    "questions": "Hewan apa yang tidak pernah salah?",
+    "answers": "Kucing",
+    "clues": "Suaranya",
+    "reason": "Kucing 'garong', kan dia tidak pernah salah."
+  },
+  {
+    "questions": "Negara mana yang ibukotanya ada banyak?",
+    "answers": "Ekuador",
+    "clues": "Geografi",
+    "reason": "Ibukota Ekuador kan 'Quito', jadi 'Quito-quito'."
+  },
+  {
+    "questions": "Kalau ayam berkokok, berarti harimau jadi apa?",
+    "answers": "Pagi",
+    "clues": "Waktu",
+    "reason": "Jadi hari mau pagi."
+  },
+  {
+    "questions": "Kenapa pohon pisang tidak punya kancing?",
+    "answers": "Baju",
+    "clues": "Pakaian",
+    "reason": "Soalnya tidak punya baju."
+  },
+  {
+    "questions": "Sungai di Jawa Barat yang paling seram?",
+    "answers": "Citarum",
+    "clues": "Nama sungai",
+    "reason": "Citarum, karena ada 'rum' nya, bikin mabuk."
+  },
+  {
+    "questions": "Apa yang dimiliki oleh kambing tetapi tidak dimiliki oleh hewan lain?",
+    "answers": "Anak",
+    "clues": "Keturunan",
+    "reason": "Anak kambing."
+  },
+  {
+    "questions": "Kenapa tuyul suka mencuri uang?",
+    "answers": "Kerja",
+    "clues": "Pekerjaan",
+    "reason": "Soalnya tidak mau kerja."
+  },
+  {
+    "questions": "Kue apa yang paling sering bikin kaget?",
+    "answers": "Kejut",
+    "clues": "Perasaan",
+    "reason": "Kue-jut."
+  },
+  {
+    "questions": "Sapi apa yang bisa lari sangat kencang?",
+    "answers": "Karno",
+    "clues": "Nama tokoh",
+    "reason": "Sapi-da motor."
+  },
+  {
+    "questions": "Kenapa nyamuk lebih kurus dari lalat?",
+    "answers": "Begadang",
+    "clues": "Aktivitas malam",
+    "reason": "Soalnya nyamuk suka begadang."
+  },
+  {
+    "questions": "Apa bedanya antara matahari dengan bulan?",
+    "answers": "Diskon",
+    "clues": "Belanja",
+    "reason": "Kalau di matahari banyak diskon, di bulan tidak ada."
+  },
+  {
+    "questions": "Orang apa yang kalau dipukul tidak pernah merasa sakit?",
+    "answers": "Pukulan",
+    "clues": "Benda",
+    "reason": "Orang-orangan yang ada di samsak tinju."
+  },
+  {
+    "questions": "Kenapa cicak suka memutuskan ekornya?",
+    "answers": "Panjang",
+    "clues": "Ukuran",
+    "reason": "Kalau memutuskan hubungan, nanti galau."
+  },
+  {
+    "questions": "Bis apa yang paling sering menyesatkan?",
+    "answers": "Bisikan",
+    "clues": "Suara",
+    "reason": "Bisikan setan."
+  },
+  {
+    "questions": "Kuda apa yang paling bikin capek?",
+    "answers": "Naik",
+    "clues": "Aktivitas",
+    "reason": "Kuda-ki gunung."
+  },
+  {
+    "questions": "Kenapa mayat dibungkus kain kafan?",
+    "answers": "Keren",
+    "clues": "Gaya",
+    "reason": "Kalau dibungkus kain kado, nanti terlalu bagus."
+  },
+  {
+    "questions": "Apa yang turunnya pelan tapi naiknya cepat?",
+    "answers": "Ingus",
+    "clues": "Cairan tubuh",
+    "reason": "Ingus."
+  },
+  {
+    "questions": "Buah apa yang paling sopan?",
+    "answers": "Mangga",
+    "clues": "Kata",
+    "reason": "Mangga, silakan masuk."
+  },
+  {
+    "questions": "Kenapa semut kalau berjalan selalu beriringan?",
+    "answers": "Takut",
+    "clues": "Perasaan",
+    "reason": "Takut nyasar."
+  },
+  {
+    "questions": "Hantu apa yang paling pintar matematika?",
+    "answers": "Cacah",
+    "clues": "Hitungan",
+    "reason": "Hantu pencacah jiwa."
+  },
+  {
+    "questions": "Hewan apa yang punya banyak keahlian?",
+    "answers": "Kukang",
+    "clues": "Profesi",
+    "reason": "Kukang servis, kukang bangunan, kukang pijat."
+  },
+  {
+    "questions": "Kenapa air terjun selalu turun ke bawah?",
+    "answers": "Atas",
+    "clues": "Arah",
+    "reason": "Karena kalau naiknya ke atas, namanya air mancur."
+  },
+  {
+    "questions": "Soto apa yang paling tidak enak?",
+    "answers": "Sotoy",
+    "clues": "Sifat",
+    "reason": "Orang yang sotoy."
+  },
+  {
+    "questions": "Apa bahasa Indianya bumbu dapur?",
+    "answers": "Tum",
+    "clues": "Suara",
+    "reason": "Tumbar, kemiri, jahe."
+  },
+  {
+    "questions": "Kenapa kalau orang takut pasti matanya melotot?",
+    "answers": "Kaget",
+    "clues": "Perasaan",
+    "reason": "Soalnya kaget, kalau melotot sambil senyum itu namanya genit."
+  },
+  {
+    "questions": "Kera apa yang paling ditakuti?",
+    "answers": "Sukan",
+    "clues": "Peristiwa",
+    "reason": "Kerasukan jin."
+  },
+  {
+    "questions": "Hewan apa yang seluruh anggota tubuhnya ada di kepala?",
+    "answers": "Kutu",
+    "clues": "Parasit",
+    "reason": "Kutu rambut."
+  },
+  {
+    "questions": "Kenapa donat tengahnya bolong?",
+    "answers": "Goreng",
+    "clues": "Proses memasak",
+    "reason": "Biar matangnya merata."
+  },
+  {
+    "questions": "Nasi apa yang paling enak dimakan saat lapar?",
+    "answers": "Semua",
+    "clues": "Pilihan",
+    "reason": "Semua jenis nasi pasti enak."
+  },
+  {
+    "questions": "Apa bedanya antara aksi dengan demo?",
+    "answers": "Ukuran",
+    "clues": "Kapasitas",
+    "reason": "Kalau aksi rodanya empat, kalau demo rodanya tiga."
+  },
+  {
+    "questions": "Kenapa burung terbang ke selatan saat musim dingin?",
+    "answers": "Jalan",
+    "clues": "Aktivitas lain",
+    "reason": "Soalnya kalau jalan kaki terlalu jauh."
+  },
+  {
+    "questions": "Jam, jam apa yang paling sering dipakai oleh dukun?",
+    "answers": "Peh",
+    "clues": "Suara",
+    "reason": "Jam-peh."
+  },
+  {
+    "questions": "Lele, lele apa yang adanya di pinggir jalan?",
+    "answers": "Marka",
+    "clues": "Rambu lalu lintas",
+    "reason": "Lele-ngan jalan."
+  },
+  {
+    "questions": "Kenapa kalau mau makan harus berdoa dulu?",
+    "answers": "Sopan",
+    "clues": "Etika",
+    "reason": "Biar sopan santun."
+  },
+  {
+    "questions": "Tari apa yang gerakannya tidak pernah beraturan?",
+    "answers": "Kjang",
+    "clues": "Kondisi tubuh",
+    "reason": "Tari-k kejang."
+  },
+  {
+    "questions": "Gajah apa yang paling baik hati?",
+    "answers": "Mada",
+    "clues": "Tokoh sejarah",
+    "reason": "Gajah Mada, karena dia mempersatukan Nusantara."
+  },
+  {
+    "questions": "Kenapa sepatu dibuat dari kulit?",
+    "answers": "Kaki",
+    "clues": "Bagian tubuh",
+    "reason": "Soalnya kalau dibuat dari kulit pisang, nanti kepeleset."
+  },
+  {
+    "questions": "Apa yang paling cepat di dunia?",
+    "answers": "Kedip",
+    "clues": "Gerakan mata",
+    "reason": "Mata berkedip."
+  },
+  {
+    "questions": "Kecil di Jakarta, besar di Aceh. Apakah itu?",
+    "answers": "Huruf",
+    "clues": "Alfabet",
+    "reason": "Huruf 'A'."
+  },
+  {
+    "questions": "Kenapa patung singa di depan gerbang selalu diam?",
+    "answers": "Malu",
+    "clues": "Perasaan",
+    "reason": "Karena malu kalau harus bergerak."
+  },
+  {
+    "questions": "Kota di Indonesia yang paling suka pamer?",
+    "answers": "Pameran",
+    "clues": "Acara",
+    "reason": "Kota Pameran."
+  },
+  {
+    "questions": "Hewan apa yang namanya cuma satu huruf?",
+    "answers": "I",
+    "clues": "Huruf vokal",
+    "reason": "I-kan."
+  },
+  {
+    "questions": "Kenapa kalau lagi sedih, orang suka menangis?",
+    "answers": "Lega",
+    "clues": "Perasaan",
+    "reason": "Biar hatinya lega."
+  },
+  {
+    "questions": "Apa persamaan antara telepon dengan jemuran?",
+    "answers": "Kring",
+    "clues": "Suara",
+    "reason": "Kalau sudah kering, diangkat."
+  },
+  {
+    "questions": "Negara apa yang siap menerima telepon kapan saja?",
+    "answers": "Kolombia",
+    "clues": "Geografi",
+    "reason": "Kolombia, 'Call me'-bia."
+  },
+  {
+    "questions": "Kenapa motor berhenti di lampu merah?",
+    "answers": "Rem",
+    "clues": "Bagian motor",
+    "reason": "Karena direm."
+  },
+  {
+    "questions": "Benda apa yang kalau dibalik jadi rusak?",
+    "answers": "Kasur",
+    "clues": "Tempat tidur",
+    "reason": "Kasur dibalik jadi rusak."
+  },
+  {
+    "questions": "Hewan apa yang paling sering dicari oleh polisi?",
+    "answers": "Maling",
+    "clues": "Tindakan kriminal",
+    "reason": "Maling kundang."
+  },
+  {
+    "questions": "Kenapa saat perayaan kemerdekaan ada lomba panjat pinang?",
+    "answers": "Seru",
+    "clues": "Suasana",
+    "reason": "Biar seru."
+  },
+  {
+    "questions": "Apa bedanya kepala dengan kelapa?",
+    "answers": "Rambut",
+    "clues": "Tumbuh",
+    "reason": "Kalau kepala ada rambutnya, kalau kelapa ada sabutnya."
+  },
+  {
+    "questions": "Artis sinetron yang suka naik ojek?",
+    "answers": "Dude",
+    "clues": "Nama aktor",
+    "reason": "Dude Herlino, kan dia sering bilang 'Ojek, bang'."
+  },
+  {
+    "questions": "Kenapa pelangi muncul setelah hujan?",
+    "answers": "Janji",
+    "clues": "Ikrar",
+    "reason": "Karena dia sudah janji."
+  },
+  {
+    "questions": "Siapa nama kecilnya Jenderal Sudirman?",
+    "answers": "Sudi",
+    "clues": "Nama depan",
+    "reason": "Sudi."
+  },
+  {
+    "questions": "Buah apa yang paling alim?",
+    "answers": "Salak",
+    "clues": "Agama",
+    "reason": "Salak, karena selalu pakai jilbab."
+  },
+  {
+    "questions": "Kenapa kalau mau tidur harus mematikan lampu?",
+    "answers": "Hemat",
+    "clues": "Pengeluaran",
+    "reason": "Biar hemat listrik."
+  },
+  {
+    "questions": "Negara mana yang suka begadang?",
+    "answers": "Qatar",
+    "clues": "Geografi",
+    "reason": "Qatar, karena negaranya 'Qatar-lalu malam'."
+  },
+  {
+    "questions": "Hewan apa yang kalau tidur posisinya selalu terbalik?",
+    "answers": "Nyamuk",
+    "clues": "Insektisida",
+    "reason": "Nyamuk yang kena semprot obat nyamuk."
+  },
+  {
+    "questions": "Kenapa hantu sukanya muncul di malam hari?",
+    "answers": "Siang",
+    "clues": "Waktu",
+    "reason": "Soalnya kalau munculnya siang hari, nanti kepanasan."
+  },
+  {
+    "questions": "Nasi yang enak dimakan sama apa?",
+    "answers": "Lapar",
+    "clues": "Perasaan",
+    "reason": "Dimakan sama orang yang lagi lapar."
+  },
+  {
+    "questions": "Kecap apa yang paling menakutkan?",
+    "answers": "Supan",
+    "clues": "Peristiwa",
+    "reason": "Kecap-an jin."
+  },
+  {
+    "questions": "Kenapa orang meninggal matanya ditutup?",
+    "answers": "Terbuka",
+    "clues": "Kondisi mata",
+    "reason": "Kalau ditutup hidungnya, nanti tidak bisa napas."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seekor sapi setelah matahari terbenam?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke kandang."
+  },
+  {
+    "questions": "Pulau di Indonesia yang tidak dingin?",
+    "answers": "Bali",
+    "clues": "Tempat wisata",
+    "reason": "Bali, kan panas."
+  },
+  {
+    "questions": "Kenapa bumi itu berputar?",
+    "answers": "Pusing",
+    "clues": "Perasaan",
+    "reason": "Karena kalau diam nanti pusing."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pilot di saat pesawatnya akan mendarat?",
+    "answers": "Turun",
+    "clues": "Aktivitas",
+    "reason": "Turun dari pesawat."
+  },
+  {
+    "questions": "Kenapa setiap hari kita harus minum air putih?",
+    "answers": "Sehat",
+    "clues": "Kondisi tubuh",
+    "reason": "Biar sehat."
+  },
+  {
+    "questions": "Hewan apa yang suka kebersihan?",
+    "answers": "Gajah",
+    "clues": "Aktivitas",
+    "reason": "Gajah, karena suka mandi."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pemadam kebakaran setelah apinya padam?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa saat menyeberang rel kereta api harus hati-hati?",
+    "answers": "Bahaya",
+    "clues": "Kondisi",
+    "reason": "Karena berbahaya."
+  },
+  {
+    "questions": "Makanan apa yang namanya sama dengan yang jual?",
+    "answers": "Tahu",
+    "clues": "Profesi",
+    "reason": "Tukang tahu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang nelayan setelah mendapatkan banyak ikan?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke darat."
+  },
+  {
+    "questions": "Kenapa kita harus menghormati orang tua?",
+    "answers": "Wajib",
+    "clues": "Kewajiban",
+    "reason": "Karena itu adalah kewajiban seorang anak."
+  },
+  {
+    "questions": "Ikan apa yang tidak pernah tidur?",
+    "answers": "Lele",
+    "clues": "Pekerjaan",
+    "reason": "Lele-lawar, kan kerjanya malam."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang guru saat bel istirahat berbunyi?",
+    "answers": "Keluar",
+    "clues": "Aktivitas",
+    "reason": "Keluar dari kelas."
+  },
+  {
+    "questions": "Kenapa kita harus rajin belajar?",
+    "answers": "Pintar",
+    "clues": "Kecerdasan",
+    "reason": "Biar jadi pintar."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang dokter setelah pasiennya sembuh?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pasiennya pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa saat hujan kita harus pakai payung?",
+    "answers": "Basah",
+    "clues": "Kondisi",
+    "reason": "Biar tidak basah."
+  },
+  {
+    "questions": "Hewan apa yang paling suka begadang?",
+    "answers": "Kelelawar",
+    "clues": "Aktivitas malam",
+    "reason": "Kelelawar, kan tidurnya siang hari."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang masinis saat keretanya tiba di stasiun tujuan?",
+    "answers": "Berhenti",
+    "clues": "Aktivitas",
+    "reason": "Keretanya berhenti."
+  },
+  {
+    "questions": "Kenapa saat menanam pohon harus disiram?",
+    "answers": "Tumbuh",
+    "clues": "Proses",
+    "reason": "Biar pohonnya bisa tumbuh."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang penyanyi setelah konsernya selesai?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga kebersihan lingkungan?",
+    "answers": "Sehat",
+    "clues": "Kondisi",
+    "reason": "Biar lingkungannya sehat."
+  },
+  {
+    "questions": "Hewan apa yang paling setia?",
+    "answers": "Anjing",
+    "clues": "Sifat",
+    "reason": "Anjing, karena suka menunggu tuannya pulang."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang koki setelah masakannya matang?",
+    "answers": "Sajikan",
+    "clues": "Aktivitas",
+    "reason": "Masakannya disajikan."
+  },
+  {
+    "questions": "Kenapa kita harus membuang sampah pada tempatnya?",
+    "answers": "Bersih",
+    "clues": "Kondisi",
+    "reason": "Biar lingkungannya bersih."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang wasit setelah pertandingan selesai?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa kita harus tidur yang cukup?",
+    "answers": "Sehat",
+    "clues": "Kondisi tubuh",
+    "reason": "Biar badan sehat."
+  },
+  {
+    "questions": "Hewan apa yang paling suka menabung?",
+    "answers": "Semut",
+    "clues": "Kebiasaan",
+    "reason": "Semut, karena suka mengumpulkan makanan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang petani setelah panen?",
+    "answers": "Jual",
+    "clues": "Aktivitas",
+    "reason": "Hasil panennya dijual."
+  },
+  {
+    "questions": "Kenapa kita harus berolahraga secara teratur?",
+    "answers": "Sehat",
+    "clues": "Kondisi tubuh",
+    "reason": "Biar badan sehat dan bugar."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang sutradara setelah filmnya selesai dibuat?",
+    "answers": "Rilis",
+    "clues": "Aktivitas",
+    "reason": "Filmnya dirilis."
+  },
+  {
+    "questions": "Kenapa kita harus menaati peraturan lalu lintas?",
+    "answers": "Selamat",
+    "clues": "Kondisi",
+    "reason": "Biar selamat di jalan."
+  },
+  {
+    "questions": "Hewan apa yang paling sabar?",
+    "answers": "Kura-kura",
+    "clues": "Sifat",
+    "reason": "Kura-kura, karena jalannya pelan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang penulis setelah bukunya selesai ditulis?",
+    "answers": "Terbitkan",
+    "clues": "Aktivitas",
+    "reason": "Bukunya diterbitkan."
+  },
+  {
+    "questions": "Kenapa kita harus saling tolong menolong?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena itu perbuatan yang baik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang arsitek setelah rancangannya disetujui?",
+    "answers": "Bangun",
+    "clues": "Aktivitas",
+    "reason": "Bangunannya dibangun."
+  },
+  {
+    "questions": "Kenapa kita harus jujur dalam segala hal?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena jujur itu sifat yang baik."
+  },
+  {
+    "questions": "Hewan apa yang paling suka berjemur?",
+    "answers": "Buaya",
+    "clues": "Kebiasaan",
+    "reason": "Buaya, karena sering terlihat berjemur di pinggir sungai."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang desainer setelah desainnya jadi?",
+    "answers": "Produksi",
+    "clues": "Aktivitas",
+    "reason": "Produknya diproduksi."
+  },
+  {
+    "questions": "Kenapa kita harus berterima kasih setelah dibantu?",
+    "answers": "Sopan",
+    "clues": "Etika",
+    "reason": "Karena itu tanda sopan santun."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang musisi setelah lagunya selesai dibuat?",
+    "answers": "Rekam",
+    "clues": "Aktivitas",
+    "reason": "Lagunya direkam."
+  },
+  {
+    "questions": "Kenapa kita harus meminta maaf jika berbuat salah?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena itu adalah perbuatan yang baik."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bambu?",
+    "answers": "Panda",
+    "clues": "Kebiasaan",
+    "reason": "Panda, karena makanan utamanya adalah bambu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang fotografer setelah memotret?",
+    "answers": "Cetak",
+    "clues": "Aktivitas",
+    "reason": "Fotonya dicetak."
+  },
+  {
+    "questions": "Kenapa kita harus menghargai perbedaan?",
+    "answers": "Indah",
+    "clues": "Kondisi",
+    "reason": "Karena perbedaan itu indah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pelukis setelah lukisannya selesai?",
+    "answers": "Pamerkan",
+    "clues": "Aktivitas",
+    "reason": "Lukisannya dipamerkan."
+  },
+  {
+    "questions": "Kenapa kita harus selalu berpikir positif?",
+    "answers": "Tenang",
+    "clues": "Perasaan",
+    "reason": "Biar hati dan pikiran tenang."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan madu?",
+    "answers": "Beruang",
+    "clues": "Kebiasaan",
+    "reason": "Beruang madu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang penjahit setelah bajunya selesai dijahit?",
+    "answers": "Jual",
+    "clues": "Aktivitas",
+    "reason": "Bajunya dijual."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga amanah?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena itu adalah sifat yang terpuji."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang kayu setelah mebelnya jadi?",
+    "answers": "Jual",
+    "clues": "Aktivitas",
+    "reason": "Mebelnya dijual."
+  },
+  {
+    "questions": "Kenapa kita harus menepati janji?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena itu adalah ciri orang yang baik."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan wortel?",
+    "answers": "Kelinci",
+    "clues": "Kebiasaan",
+    "reason": "Kelinci, karena makanan kesukaannya adalah wortel."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pematung setelah patungnya jadi?",
+    "answers": "Pajang",
+    "clues": "Aktivitas",
+    "reason": "Patungnya dipajang."
+  },
+  {
+    "questions": "Kenapa kita harus bersyukur atas apa yang kita miliki?",
+    "answers": "Bahagia",
+    "clues": "Perasaan",
+    "reason": "Biar hidup kita bahagia."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang sepatu setelah sepatunya jadi?",
+    "answers": "Jual",
+    "clues": "Aktivitas",
+    "reason": "Sepatunya dijual."
+  },
+  {
+    "questions": "Kenapa kita harus sabar dalam menghadapi cobaan?",
+    "answers": "Kuat",
+    "clues": "Kondisi",
+    "reason": "Biar kita menjadi orang yang kuat."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan pisang?",
+    "answers": "Monyet",
+    "clues": "Kebiasaan",
+    "reason": "Monyet, karena sering terlihat makan pisang."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang las setelah pekerjaannya selesai?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa kita harus ikhlas dalam berbuat kebaikan?",
+    "answers": "Tenang",
+    "clues": "Perasaan",
+    "reason": "Biar hati kita tenang."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang cukur setelah mencukur rambut pelanggan?",
+    "answers": "Bayar",
+    "clues": "Aktivitas",
+    "reason": "Pelanggannya bayar."
+  },
+  {
+    "questions": "Kenapa kita harus tawakal setelah berusaha?",
+    "answers": "Pasrah",
+    "clues": "Perasaan",
+    "reason": "Karena kita harus pasrah pada kehendak Tuhan."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan ikan?",
+    "answers": "Kucing",
+    "clues": "Kebiasaan",
+    "reason": "Kucing, karena sering mencuri ikan di dapur."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang pijat setelah memijat pelanggan?",
+    "answers": "Bayar",
+    "clues": "Aktivitas",
+    "reason": "Pelanggannya bayar."
+  },
+  {
+    "questions": "Kenapa kita harus berdoa sebelum melakukan sesuatu?",
+    "answers": "Lancar",
+    "clues": "Kondisi",
+    "reason": "Biar urusannya lancar."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang parkir setelah mobil keluar dari parkiran?",
+    "answers": "Cari",
+    "clues": "Aktivitas",
+    "reason": "Cari mobil lain untuk diparkirkan."
+  },
+  {
+    "questions": "Kenapa kita harus optimis dalam menjalani hidup?",
+    "answers": "Semangat",
+    "clues": "Perasaan",
+    "reason": "Biar hidup kita selalu semangat."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan biji-bijian?",
+    "answers": "Burung",
+    "clues": "Kebiasaan",
+    "reason": "Burung, karena paruhnya cocok untuk memecah biji-bijian."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tukang ojek setelah mengantar penumpang?",
+    "answers": "Cari",
+    "clues": "Aktivitas",
+    "reason": "Cari penumpang lagi."
+  },
+  {
+    "questions": "Kenapa kita harus introspeksi diri?",
+    "answers": "Baik",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menjadi pribadi yang lebih baik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pedagang setelah barangnya laku?",
+    "answers": "Hitung",
+    "clues": "Aktivitas",
+    "reason": "Hitung uang hasil penjualan."
+  },
+  {
+    "questions": "Kenapa kita harus rendah hati?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Karena sombong itu tidak baik."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan serangga?",
+    "answers": "Cicak",
+    "clues": "Kebiasaan",
+    "reason": "Cicak, karena sering terlihat di dinding menangkap serangga."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang supir setelah sampai di tempat tujuan?",
+    "answers": "Turun",
+    "clues": "Aktivitas",
+    "reason": "Penumpangnya turun."
+  },
+  {
+    "questions": "Kenapa kita harus pemaaf?",
+    "answers": "Tenang",
+    "clues": "Perasaan",
+    "reason": "Biar hati kita tidak menyimpan dendam."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang montir setelah memperbaiki mobil?",
+    "answers": "Tes",
+    "clues": "Aktivitas",
+    "reason": "Mobilnya dites jalan."
+  },
+  {
+    "questions": "Kenapa kita harus berani mengakui kesalahan?",
+    "answers": "Jantan",
+    "clues": "Sifat",
+    "reason": "Karena itu adalah sikap seorang ksatria."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan daun?",
+    "answers": "Ulat",
+    "clues": "Kebiasaan",
+    "reason": "Ulat, karena sering ditemukan di daun."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang atlet setelah memenangkan pertandingan?",
+    "answers": "Selebrasi",
+    "clues": "Aktivitas",
+    "reason": "Melakukan selebrasi kemenangan."
+  },
+  {
+    "questions": "Kenapa kita harus disiplin waktu?",
+    "answers": "Sukses",
+    "clues": "Kondisi",
+    "reason": "Karena itu adalah kunci kesuksesan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang penari setelah pertunjukannya selesai?",
+    "answers": "Hormat",
+    "clues": "Aktivitas",
+    "reason": "Memberi hormat kepada penonton."
+  },
+  {
+    "questions": "Kenapa kita harus bertanggung jawab atas perbuatan kita?",
+    "answers": "Dewasa",
+    "clues": "Sifat",
+    "reason": "Karena itu adalah tanda kedewasaan."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan daging?",
+    "answers": "Harimau",
+    "clues": "Kebiasaan",
+    "reason": "Harimau, karena termasuk hewan karnivora."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pemain musik setelah konsernya selesai?",
+    "answers": "Hormat",
+    "clues": "Aktivitas",
+    "reason": "Memberi hormat kepada penonton."
+  },
+  {
+    "questions": "Kenapa kita harus bekerja keras?",
+    "answers": "Sukses",
+    "clues": "Kondisi",
+    "reason": "Biar bisa meraih kesuksesan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang aktor setelah syuting selesai?",
+    "answers": "Pulang",
+    "clues": "Aktivitas",
+    "reason": "Pulang ke rumah."
+  },
+  {
+    "questions": "Kenapa kita harus kreatif?",
+    "answers": "Inovasi",
+    "clues": "Ide",
+    "reason": "Biar bisa menciptakan hal-hal baru."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bangkai?",
+    "answers": "Burung",
+    "clues": "Kebiasaan",
+    "reason": "Burung bangkai."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang presenter setelah acaranya selesai?",
+    "answers": "Tutup",
+    "clues": "Aktivitas",
+    "reason": "Menutup acara."
+  },
+  {
+    "questions": "Kenapa kita harus inovatif?",
+    "answers": "Maju",
+    "clues": "Kondisi",
+    "reason": "Biar tidak ketinggalan zaman."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang programmer setelah programnya jadi?",
+    "answers": "Tes",
+    "clues": "Aktivitas",
+    "reason": "Programnya dites."
+  },
+  {
+    "questions": "Kenapa kita harus adaptif?",
+    "answers": "Bertahan",
+    "clues": "Kondisi",
+    "reason": "Biar bisa bertahan dalam segala kondisi."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan darah?",
+    "answers": "Nyamuk",
+    "clues": "Kebiasaan",
+    "reason": "Nyamuk betina."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ilmuwan setelah penelitiannya berhasil?",
+    "answers": "Publikasi",
+    "clues": "Aktivitas",
+    "reason": "Hasil penelitiannya dipublikasikan."
+  },
+  {
+    "questions": "Kenapa kita harus kolaboratif?",
+    "answers": "Mudah",
+    "clues": "Kondisi",
+    "reason": "Biar pekerjaan yang berat jadi terasa ringan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang atlet sebelum bertanding?",
+    "answers": "Pemanasan",
+    "clues": "Aktivitas",
+    "reason": "Melakukan pemanasan."
+  },
+  {
+    "questions": "Kenapa kita harus komunikatif?",
+    "answers": "Paham",
+    "clues": "Kondisi",
+    "reason": "Biar tidak terjadi salah paham."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan nektar?",
+    "answers": "Kupu-kupu",
+    "clues": "Kebiasaan",
+    "reason": "Kupu-kupu, karena sering hinggap di bunga."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang mahasiswa sebelum ujian?",
+    "answers": "Belajar",
+    "clues": "Aktivitas",
+    "reason": "Belajar dengan giat."
+  },
+  {
+    "questions": "Kenapa kita harus percaya diri?",
+    "answers": "Yakin",
+    "clues": "Perasaan",
+    "reason": "Biar kita yakin dengan kemampuan diri sendiri."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pelamar kerja sebelum wawancara?",
+    "answers": "Persiapan",
+    "clues": "Aktivitas",
+    "reason": "Melakukan persiapan."
+  },
+  {
+    "questions": "Kenapa kita harus mandiri?",
+    "answers": "Bisa",
+    "clues": "Kemampuan",
+    "reason": "Biar bisa melakukan segala sesuatu sendiri."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan buah-buahan?",
+    "answers": "Kelelawar",
+    "clues": "Kebiasaan",
+    "reason": "Kelelawar buah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang calon pengantin sebelum menikah?",
+    "answers": "Persiapan",
+    "clues": "Aktivitas",
+    "reason": "Melakukan persiapan pernikahan."
+  },
+  {
+    "questions": "Kenapa kita harus berani mencoba hal baru?",
+    "answers": "Pengalaman",
+    "clues": "Kondisi",
+    "reason": "Biar kita punya banyak pengalaman."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ibu hamil sebelum melahirkan?",
+    "answers": "Persiapan",
+    "clues": "Aktivitas",
+    "reason": "Melakukan persiapan melahirkan."
+  },
+  {
+    "questions": "Kenapa kita harus gigih dalam meraih cita-cita?",
+    "answers": "Tercapai",
+    "clues": "Kondisi",
+    "reason": "Biar cita-cita kita bisa tercapai."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan rumput?",
+    "answers": "Sapi",
+    "clues": "Kebiasaan",
+    "reason": "Sapi, karena termasuk hewan herbivora."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang anak sekolah di hari pertama masuk sekolah?",
+    "answers": "Perkenalan",
+    "clues": "Aktivitas",
+    "reason": "Perkenalan dengan teman-teman baru."
+  },
+  {
+    "questions": "Kenapa kita harus tekun dalam belajar?",
+    "answers": "Paham",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa memahami pelajaran dengan baik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang karyawan baru di hari pertama kerja?",
+    "answers": "Perkenalan",
+    "clues": "Aktivitas",
+    "reason": "Perkenalan dengan rekan-rekan kerja."
+  },
+  {
+    "questions": "Kenapa kita harus ulet dalam berusaha?",
+    "answers": "Berhasil",
+    "clues": "Kondisi",
+    "reason": "Biar usaha kita bisa berhasil."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan plankton?",
+    "answers": "Paus",
+    "clues": "Kebiasaan",
+    "reason": "Paus biru."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang presiden baru setelah dilantik?",
+    "answers": "Pidato",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan pidato kenegaraan."
+  },
+  {
+    "questions": "Kenapa kita harus teliti dalam bekerja?",
+    "answers": "Sempurna",
+    "clues": "Kondisi",
+    "reason": "Biar hasil pekerjaan kita sempurna."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang raja baru setelah dinobatkan?",
+    "answers": "Titah",
+    "clues": "Aktivitas",
+    "reason": "Memberikan titah kepada rakyatnya."
+  },
+  {
+    "questions": "Kenapa kita harus cermat dalam mengambil keputusan?",
+    "answers": "Tepat",
+    "clues": "Kondisi",
+    "reason": "Biar keputusan yang kita ambil tepat."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan semut?",
+    "answers": "Trenggiling",
+    "clues": "Kebiasaan",
+    "reason": "Trenggiling, karena memiliki lidah yang panjang dan lengket."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang jenderal baru setelah dilantik?",
+    "answers": "Amanat",
+    "clues": "Aktivitas",
+    "reason": "Memberikan amanat kepada pasukannya."
+  },
+  {
+    "questions": "Kenapa kita harus bijaksana dalam bertindak?",
+    "answers": "Baik",
+    "clues": "Kondisi",
+    "reason": "Biar tindakan kita membawa kebaikan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang manajer baru setelah diangkat?",
+    "answers": "Pengarahan",
+    "clues": "Aktivitas",
+    "reason": "Memberikan pengarahan kepada bawahannya."
+  },
+  {
+    "questions": "Kenapa kita harus adil dalam memimpin?",
+    "answers": "Sejahtera",
+    "clues": "Kondisi",
+    "reason": "Biar rakyat yang kita pimpin sejahtera."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan rayap?",
+    "answers": "Landak",
+    "clues": "Kebiasaan",
+    "reason": "Landak semut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua baru setelah terpilih?",
+    "answers": "Sambutan",
+    "clues": "Aktivitas",
+    "reason": "Memberikan kata sambutan."
+  },
+  {
+    "questions": "Kenapa kita harus amanah dalam menjalankan tugas?",
+    "answers": "Berkah",
+    "clues": "Kondisi",
+    "reason": "Biar tugas yang kita jalankan membawa berkah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kapten baru setelah terpilih?",
+    "answers": "Instruksi",
+    "clues": "Aktivitas",
+    "reason": "Memberikan instruksi kepada anggotanya."
+  },
+  {
+    "questions": "Kenapa kita harus profesional dalam bekerja?",
+    "answers": "Baik",
+    "clues": "Kondisi",
+    "reason": "Biar hasil pekerjaan kita baik."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan cacing?",
+    "answers": "Ayam",
+    "clues": "Kebiasaan",
+    "reason": "Ayam, karena sering mengais tanah mencari cacing."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang komandan baru setelah diangkat?",
+    "answers": "Perintah",
+    "clues": "Aktivitas",
+    "reason": "Memberikan perintah kepada pasukannya."
+  },
+  {
+    "questions": "Kenapa kita harus berintegritas?",
+    "answers": "Dipercaya",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menjadi orang yang dipercaya."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pelatih baru setelah ditunjuk?",
+    "answers": "Latihan",
+    "clues": "Aktivitas",
+    "reason": "Memberikan program latihan kepada atletnya."
+  },
+  {
+    "questions": "Kenapa kita harus loyal kepada perusahaan?",
+    "answers": "Maju",
+    "clues": "Kondisi",
+    "reason": "Biar perusahaan tempat kita bekerja bisa maju."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan siput?",
+    "answers": "Bebek",
+    "clues": "Kebiasaan",
+    "reason": "Bebek, karena sering mencari siput di sawah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang direktur baru setelah dilantik?",
+    "answers": "Visi",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan visi dan misi perusahaan."
+  },
+  {
+    "questions": "Kenapa kita harus berdedikasi tinggi?",
+    "answers": "Terbaik",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa memberikan yang terbaik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang CEO baru setelah diangkat?",
+    "answers": "Strategi",
+    "clues": "Aktivitas",
+    "reason": "Menyusun strategi perusahaan."
+  },
+  {
+    "questions": "Kenapa kita harus bersemangat dalam bekerja?",
+    "answers": "Produktif",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menjadi lebih produktif."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan katak?",
+    "answers": "Ular",
+    "clues": "Kebiasaan",
+    "reason": "Ular sawah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang menteri baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerjanya."
+  },
+  {
+    "questions": "Kenapa kita harus antusias dalam belajar?",
+    "answers": "Cepat",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa cepat menyerap ilmu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang gubernur baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja daerahnya."
+  },
+  {
+    "questions": "Kenapa kita harus proaktif?",
+    "answers": "Siap",
+    "clues": "Kondisi",
+    "reason": "Biar kita selalu siap menghadapi segala kemungkinan."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan tikus?",
+    "answers": "Burung",
+    "clues": "Kebiasaan",
+    "reason": "Burung hantu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang bupati baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja kabupatennya."
+  },
+  {
+    "questions": "Kenapa kita harus persisten?",
+    "answers": "Tuntas",
+    "clues": "Kondisi",
+    "reason": "Biar semua pekerjaan kita bisa tuntas."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang walikota baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja kotanya."
+  },
+  {
+    "questions": "Kenapa kita harus resilien?",
+    "answers": "Bangkit",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa bangkit dari kegagalan."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan kepiting?",
+    "answers": "Berang-berang",
+    "clues": "Kebiasaan",
+    "reason": "Berang-berang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala desa baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja desanya."
+  },
+  {
+    "questions": "Kenapa kita harus berempati?",
+    "answers": "Peka",
+    "clues": "Perasaan",
+    "reason": "Biar kita bisa peka terhadap perasaan orang lain."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua RT baru setelah terpilih?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja lingkungannya."
+  },
+  {
+    "questions": "Kenapa kita harus bersimpati?",
+    "answers": "Peduli",
+    "clues": "Perasaan",
+    "reason": "Biar kita bisa peduli terhadap penderitaan orang lain."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan udang?",
+    "answers": "Flamingo",
+    "clues": "Kebiasaan",
+    "reason": "Flamingo, karena pigmen dari udang membuat warna bulunya menjadi merah muda."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua RW baru setelah terpilih?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja wilayahnya."
+  },
+  {
+    "questions": "Kenapa kita harus toleran terhadap perbedaan?",
+    "answers": "Damai",
+    "clues": "Kondisi",
+    "reason": "Biar hidup kita damai."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua OSIS baru setelah terpilih?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja organisasinya."
+  },
+  {
+    "questions": "Kenapa kita harus inklusif?",
+    "answers": "Rangkul",
+    "clues": "Tindakan",
+    "reason": "Biar kita bisa merangkul semua kalangan."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan alga?",
+    "answers": "Ikan",
+    "clues": "Kebiasaan",
+    "reason": "Ikan sapu-sapu."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua BEM baru setelah terpilih?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja organisasinya."
+  },
+  {
+    "questions": "Kenapa kita harus suportif terhadap teman?",
+    "answers": "Semangat",
+    "clues": "Perasaan",
+    "reason": "Biar teman kita semangat dalam meraih impiannya."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua himpunan baru setelah terpilih?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja organisasinya."
+  },
+  {
+    "questions": "Kenapa kita harus kooperatif dalam tim?",
+    "answers": "Tercapai",
+    "clues": "Kondisi",
+    "reason": "Biar tujuan tim bisa tercapai."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan kerang?",
+    "answers": "Anjing",
+    "clues": "Kebiasaan",
+    "reason": "Anjing laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua panitia baru setelah terpilih?",
+    "answers": "Rencana",
+    "clues": "Aktivitas",
+    "reason": "Menyusun rencana kegiatan."
+  },
+  {
+    "questions": "Kenapa kita harus fleksibel dalam bekerja?",
+    "answers": "Menyesuaikan",
+    "clues": "Tindakan",
+    "reason": "Biar kita bisa menyesuaikan diri dengan perubahan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pemimpin redaksi baru setelah diangkat?",
+    "answers": "Kebijakan",
+    "clues": "Aktivitas",
+    "reason": "Menetapkan kebijakan redaksi."
+  },
+  {
+    "questions": "Kenapa kita harus dinamis?",
+    "answers": "Berkembang",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa terus berkembang."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan ubur-ubur?",
+    "answers": "Penyu",
+    "clues": "Kebiasaan",
+    "reason": "Penyu belimbing."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala sekolah baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja sekolahnya."
+  },
+  {
+    "questions": "Kenapa kita harus visioner?",
+    "answers": "Masa",
+    "clues": "Waktu",
+    "reason": "Biar kita punya pandangan jauh ke depan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang rektor baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja universitasnya."
+  },
+  {
+    "questions": "Kenapa kita harus strategis dalam bertindak?",
+    "answers": "Tercapai",
+    "clues": "Kondisi",
+    "reason": "Biar tujuan kita bisa tercapai dengan efektif."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan teripang?",
+    "answers": "Bintang",
+    "clues": "Kebiasaan",
+    "reason": "Bintang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang dekan baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja fakultasnya."
+  },
+  {
+    "questions": "Kenapa kita harus taktis dalam mengambil keputusan?",
+    "answers": "Cepat",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa mengambil keputusan dengan cepat dan tepat."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang ketua jurusan baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyampaikan program kerja jurusannya."
+  },
+  {
+    "questions": "Kenapa kita harus lugas dalam berkomunikasi?",
+    "answers": "Jelas",
+    "clues": "Kondisi",
+    "reason": "Biar pesan yang kita sampaikan jelas dan mudah dipahami."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan landak laut?",
+    "answers": "Berang-berang",
+    "clues": "Kebiasaan",
+    "reason": "Berang-berang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang dosen wali baru setelah ditunjuk?",
+    "answers": "Bimbingan",
+    "clues": "Aktivitas",
+    "reason": "Memberikan bimbingan kepada mahasiswa perwaliannya."
+  },
+  {
+    "questions": "Kenapa kita harus tegas dalam memimpin?",
+    "answers": "Dihormati",
+    "clues": "Kondisi",
+    "reason": "Biar kita dihormati oleh bawahan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang guru BK baru setelah ditugaskan?",
+    "answers": "Konseling",
+    "clues": "Aktivitas",
+    "reason": "Memberikan layanan konseling kepada siswa."
+  },
+  {
+    "questions": "Kenapa kita harus karismatik?",
+    "answers": "Diikuti",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menjadi pemimpin yang diikuti."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan cumi-cumi?",
+    "answers": "Paus",
+    "clues": "Kebiasaan",
+    "reason": "Paus sperma."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang wali kelas baru setelah ditunjuk?",
+    "answers": "Perhatian",
+    "clues": "Aktivitas",
+    "reason": "Memberikan perhatian kepada siswa di kelasnya."
+  },
+  {
+    "questions": "Kenapa kita harus inspiratif?",
+    "answers": "Motivasi",
+    "clues": "Perasaan",
+    "reason": "Biar kita bisa memberikan motivasi kepada orang lain."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala perpustakaan baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program pengembangan perpustakaan."
+  },
+  {
+    "questions": "Kenapa kita harus persuasif?",
+    "answers": "Meyakinkan",
+    "clues": "Tindakan",
+    "reason": "Biar kita bisa meyakinkan orang lain."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan gurita?",
+    "answers": "Anjing",
+    "clues": "Kebiasaan",
+    "reason": "Anjing laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala laboratorium baru setelah dilantik?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja laboratorium."
+  },
+  {
+    "questions": "Kenapa kita harus negosiatif?",
+    "answers": "Sepakat",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa mencapai kesepakatan yang menguntungkan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala bengkel baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja bengkel."
+  },
+  {
+    "questions": "Kenapa kita harus diplomatis?",
+    "answers": "Damai",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menyelesaikan masalah dengan cara damai."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan lobster?",
+    "answers": "Berang-berang",
+    "clues": "Kebiasaan",
+    "reason": "Berang-berang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala gudang baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja gudang."
+  },
+  {
+    "questions": "Kenapa kita harus asertif?",
+    "answers": "Tegas",
+    "clues": "Sifat",
+    "reason": "Biar kita bisa menyampaikan pendapat dengan tegas tanpa menyinggung perasaan orang lain."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala produksi baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja produksi."
+  },
+  {
+    "questions": "Kenapa kita harus berwibawa?",
+    "answers": " disegani",
+    "clues": "Kondisi",
+    "reason": "Biar kita disegani oleh orang lain."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan remis?",
+    "answers": "Walrus",
+    "clues": "Kebiasaan",
+    "reason": "Walrus."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala pemasaran baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja pemasaran."
+  },
+  {
+    "questions": "Kenapa kita harus beretika?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Biar kita bisa menjadi pribadi yang baik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala keuangan baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja keuangan."
+  },
+  {
+    "questions": "Kenapa kita harus bermoral?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Biar kita bisa membedakan mana yang baik dan mana yang buruk."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan tiram?",
+    "answers": "Berang-berang",
+    "clues": "Kebiasaan",
+    "reason": "Berang-berang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala personalia baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja personalia."
+  },
+  {
+    "questions": "Kenapa kita harus berakhlak mulia?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Biar kita bisa menjadi teladan bagi orang lain."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala humas baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja humas."
+  },
+  {
+    "questions": "Kenapa kita harus beriman?",
+    "answers": "Tenang",
+    "clues": "Perasaan",
+    "reason": "Biar hati kita tenang."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bulu babi?",
+    "answers": "Ikan",
+    "clues": "Kebiasaan",
+    "reason": "Ikan kakatua."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala riset dan pengembangan baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja riset dan pengembangan."
+  },
+  {
+    "questions": "Kenapa kita harus bertakwa?",
+    "answers": "Selamat",
+    "clues": "Kondisi",
+    "reason": "Biar kita selamat dunia dan akhirat."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala IT baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja IT."
+  },
+  {
+    "questions": "Kenapa kita harus berilmu?",
+    "answers": "Pintar",
+    "clues": "Kecerdasan",
+    "reason": "Biar kita tidak mudah dibodohi."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan bintang laut?",
+    "answers": "Berang-berang",
+    "clues": "Kebiasaan",
+    "reason": "Berang-berang laut."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala operasional baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja operasional."
+  },
+  {
+    "questions": "Kenapa kita harus beramal?",
+    "answers": "Pahala",
+    "clues": "Ganjaran",
+    "reason": "Biar kita mendapatkan pahala."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kepala cabang baru setelah diangkat?",
+    "answers": "Program",
+    "clues": "Aktivitas",
+    "reason": "Menyusun program kerja cabang."
+  },
+  {
+    "questions": "Kenapa kita harus berbakti kepada orang tua?",
+    "answers": "Surga",
+    "clues": "Tempat",
+    "reason": "Karena surga ada di telapak kaki ibu."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan karang?",
+    "answers": "Ikan",
+    "clues": "Kebiasaan",
+    "reason": "Ikan kakatua."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang manajer proyek baru setelah ditunjuk?",
+    "answers": "Rencana",
+    "clues": "Aktivitas",
+    "reason": "Menyusun rencana proyek."
+  },
+  {
+    "questions": "Kenapa kita harus menyayangi sesama?",
+    "answers": "Damai",
+    "clues": "Kondisi",
+    "reason": "Biar tercipta kedamaian."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang event organizer baru setelah ditunjuk?",
+    "answers": "Konsep",
+    "clues": "Aktivitas",
+    "reason": "Menyusun konsep acara."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga lingkungan?",
+    "answers": "Lestari",
+    "clues": "Kondisi",
+    "reason": "Biar alam kita tetap lestari."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan spons laut?",
+    "answers": "Penyu",
+    "clues": "Kebiasaan",
+    "reason": "Penyu sisik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang wedding organizer baru setelah ditunjuk?",
+    "answers": "Konsep",
+    "clues": "Aktivitas",
+    "reason": "Menyusun konsep pernikahan."
+  },
+  {
+    "questions": "Kenapa kita harus menghemat energi?",
+    "answers": "Habis",
+    "clues": "Kondisi",
+    "reason": "Biar sumber energi kita tidak cepat habis."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang tour guide baru setelah direkrut?",
+    "answers": "Rute",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari rute wisata."
+  },
+  {
+    "questions": "Kenapa kita harus mengurangi sampah plastik?",
+    "answers": "Cemar",
+    "clues": "Kondisi",
+    "reason": "Biar lingkungan kita tidak tercemar."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan anemon laut?",
+    "answers": "Penyu",
+    "clues": "Kebiasaan",
+    "reason": "Penyu sisik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang kurir baru setelah direkrut?",
+    "answers": "Area",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari area pengiriman."
+  },
+  {
+    "questions": "Kenapa kita harus mendaur ulang sampah?",
+    "answers": "Berguna",
+    "clues": "Kondisi",
+    "reason": "Biar sampah bisa menjadi barang yang berguna lagi."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang sales baru setelah direkrut?",
+    "answers": "Produk",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari produk yang akan dijual."
+  },
+  {
+    "questions": "Kenapa kita harus menanam pohon?",
+    "answers": "Sejuk",
+    "clues": "Kondisi",
+    "reason": "Biar lingkungan kita menjadi sejuk."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan zooplankton?",
+    "answers": "Ikan",
+    "clues": "Kebiasaan",
+    "reason": "Ikan sarden."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang marketing baru setelah direkrut?",
+    "answers": "Pasar",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari kondisi pasar."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga kelestarian hutan?",
+    "answers": "Oksigen",
+    "clues": "Gas",
+    "reason": "Karena hutan adalah paru-paru dunia."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang customer service baru setelah direkrut?",
+    "answers": "Produk",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari produk dan layanan perusahaan."
+  },
+  {
+    "questions": "Kenapa kita harus melindungi satwa langka?",
+    "answers": "Punah",
+    "clues": "Kondisi",
+    "reason": "Biar mereka tidak punah."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan fitoplankton?",
+    "answers": "Kerang",
+    "clues": "Kebiasaan",
+    "reason": "Kerang."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang teknisi baru setelah direkrut?",
+    "answers": "Alat",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari cara kerja alat."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga kebersihan sungai?",
+    "answers": "Banjir",
+    "clues": "Bencana",
+    "reason": "Biar tidak terjadi banjir."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang analis baru setelah direkrut?",
+    "answers": "Data",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari cara menganalisis data."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga kebersihan laut?",
+    "answers": "Ekosistem",
+    "clues": "Lingkungan",
+    "reason": "Biar ekosistem laut tetap terjaga."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan detritus?",
+    "answers": "Cacing",
+    "clues": "Kebiasaan",
+    "reason": "Cacing tanah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang auditor baru setelah direkrut?",
+    "answers": "Prosedur",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari prosedur audit."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga terumbu karang?",
+    "answers": "Ikan",
+    "clues": "Hewan",
+    "reason": "Karena terumbu karang adalah rumah bagi ikan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang konsultan baru setelah direkrut?",
+    "answers": "Klien",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari kebutuhan klien."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga hutan mangrove?",
+    "answers": "Abrasi",
+    "clues": "Bencana",
+    "reason": "Biar tidak terjadi abrasi."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan jamur?",
+    "answers": "Tupai",
+    "clues": "Kebiasaan",
+    "reason": "Tupai."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang pengacara baru setelah direkrut?",
+    "answers": "Kasus",
+    "clues": "Aktivitas",
+    "reason": "Mempelajari kasus yang akan ditangani."
+  },
+  {
+    "questions": "Kenapa kita harus menjaga keanekaragaman hayati?",
+    "answers": "Seimbang",
+    "clues": "Kondisi",
+    "reason": "Biar ekosistem tetap seimbang."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang dokter baru setelah lulus?",
+    "answers": "Internship",
+    "clues": "Aktivitas",
+    "reason": "Menjalani program internship."
+  },
+  {
+    "questions": "Kenapa kita harus bijak menggunakan air?",
+    "answers": "Kering",
+    "clues": "Kondisi",
+    "reason": "Biar tidak kekurangan air saat musim kemarau."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan lumut?",
+    "answers": "Siput",
+    "clues": "Kebiasaan",
+    "reason": "Siput."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang perawat baru setelah lulus?",
+    "answers": "Praktik",
+    "clues": "Aktivitas",
+    "reason": "Menjalani praktik di rumah sakit."
+  },
+  {
+    "questions": "Kenapa kita harus bijak menggunakan listrik?",
+    "answers": "Padam",
+    "clues": "Kondisi",
+    "reason": "Biar tidak terjadi pemadaman listrik."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang apoteker baru setelah lulus?",
+    "answers": "Praktik",
+    "clues": "Aktivitas",
+    "reason": "Menjalani praktik di apotek."
+  },
+  {
+    "questions": "Kenapa kita harus bijak menggunakan internet?",
+    "answers": "Positif",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa mendapatkan manfaat positif dari internet."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan pakis?",
+    "answers": "Gorila",
+    "clues": "Kebiasaan",
+    "reason": "Gorila."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang bidan baru setelah lulus?",
+    "answers": "Praktik",
+    "clues": "Aktivitas",
+    "reason": "Menjalani praktik di klinik bersalin."
+  },
+  {
+    "questions": "Kenapa kita harus bijak menggunakan media sosial?",
+    "answers": "Hoax",
+    "clues": "Berita",
+    "reason": "Biar kita tidak termakan berita bohong."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang psikolog baru setelah lulus?",
+    "answers": "Praktik",
+    "clues": "Aktivitas",
+    "reason": "Menjalani praktik di biro psikologi."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam berbelanja?",
+    "answers": "Boros",
+    "clues": "Sifat",
+    "reason": "Biar kita tidak menjadi orang yang boros."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan buah ara?",
+    "answers": "Orangutan",
+    "clues": "Kebiasaan",
+    "reason": "Orangutan."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang dokter hewan baru setelah lulus?",
+    "answers": "Praktik",
+    "clues": "Aktivitas",
+    "reason": "Menjalani praktik di klinik hewan."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam mengelola keuangan?",
+    "answers": "Kaya",
+    "clues": "Kondisi",
+    "reason": "Biar kita bisa menjadi kaya."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang arsitek baru setelah lulus?",
+    "answers": "Magang",
+    "clues": "Aktivitas",
+    "reason": "Magang di kantor arsitek."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam memilih teman?",
+    "answers": "Baik",
+    "clues": "Sifat",
+    "reason": "Biar kita tidak terjerumus ke dalam pergaulan yang salah."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan daun eucalyptus?",
+    "answers": "Koala",
+    "clues": "Kebiasaan",
+    "reason": "Koala."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang desainer interior baru setelah lulus?",
+    "answers": "Magang",
+    "clues": "Aktivitas",
+    "reason": "Magang di kantor desainer interior."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam memilih pasangan hidup?",
+    "answers": "Bahagia",
+    "clues": "Perasaan",
+    "reason": "Biar hidup kita bahagia."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang desainer grafis baru setelah lulus?",
+    "answers": "Magang",
+    "clues": "Aktivitas",
+    "reason": "Magang di agensi periklanan."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam memilih pemimpin?",
+    "answers": "Sejahtera",
+    "clues": "Kondisi",
+    "reason": "Biar negara kita sejahtera."
+  },
+  {
+    "questions": "Hewan apa yang paling suka makan rebung?",
+    "answers": "Panda",
+    "clues": "Kebiasaan",
+    "reason": "Panda merah."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang programmer baru setelah lulus?",
+    "answers": "Magang",
+    "clues": "Aktivitas",
+    "reason": "Magang di perusahaan IT."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam memilih pekerjaan?",
+    "answers": "Nyaman",
+    "clues": "Perasaan",
+    "reason": "Biar kita nyaman dalam bekerja."
+  },
+  {
+    "questions": "Apa yang dilakukan oleh seorang akuntan baru setelah lulus?",
+    "answers": "Magang",
+    "clues": "Aktivitas",
+    "reason": "Magang di kantor akuntan publik."
+  },
+  {
+    "questions": "Kenapa kita harus bijak dalam memilih jurusan kuliah?",
+    "answers": "Menyesal",
+    "clues": "Perasaan",
+    "reason": "Biar kita tidak menyesal di kemudian hari."
+  }
+]
